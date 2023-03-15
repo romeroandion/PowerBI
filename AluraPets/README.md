@@ -17,3 +17,5 @@ Antes de responder a essas perguntas, é necessário que façamos o upload dos a
 Em seguida, foi realizado um tratamento nos dados e início da criação do dashboard.
 
 A partir daí podemos responder às perguntas. Acesse o arquivo em PDF ou .pbix para visualizar a Dashboard completa, com todos os visuais.
+
+As dados dos clientes da empresa foram importados do Google Sheets através do link: https://docs.google.com/spreadsheets/d/e/2PACX-1vSi6zD0nOJDf4YVOBQVXuSpAwihl4i5H4vrv7PjM3y0l0M-oHOaWYRrVXrZ1o3TOUFNnzo3sSi9b0Pu/pubhtml
